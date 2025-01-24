@@ -1,0 +1,2 @@
+*.memo filter=lfs diff=lfs merge=lfs -text
+memo filter=lfs diff=lfs merge=lfs -text
